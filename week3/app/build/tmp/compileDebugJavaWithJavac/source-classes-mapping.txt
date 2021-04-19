@@ -1,0 +1,32 @@
+com/example/week1/databinding/ActivitySignupBindingImpl.java
+ com.example.week1.databinding.ActivitySignupBindingImpl
+com/example/week1/databinding/ActivityLoginBinding.java
+ com.example.week1.databinding.ActivityLoginBinding
+com/example/week1/BuildConfig.java
+ com.example.week1.BuildConfig
+com/example/week1/DataBindingTriggerClass.java
+ com.example.week1.DataBindingTriggerClass
+com/example/week1/databinding/ActivityProfileBindingImpl.java
+ com.example.week1.databinding.ActivityProfileBindingImpl
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/week1/databinding/DialogFullNameBinding.java
+ com.example.week1.databinding.DialogFullNameBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/week1/databinding/DialogFullNameBindingImpl.java
+ com.example.week1.databinding.DialogFullNameBindingImpl
+com/example/week1/DataBinderMapperImpl.java
+ com.example.week1.DataBinderMapperImpl
+ com.example.week1.DataBinderMapperImpl$InnerBrLookup
+ com.example.week1.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/week1/BR.java
+ com.example.week1.BR
+com/example/week1/databinding/ActivitySignupBinding.java
+ com.example.week1.databinding.ActivitySignupBinding
+com/example/week1/databinding/ActivityProfileBinding.java
+ com.example.week1.databinding.ActivityProfileBinding
+com/example/week1/databinding/ActivityLoginBindingImpl.java
+ com.example.week1.databinding.ActivityLoginBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent

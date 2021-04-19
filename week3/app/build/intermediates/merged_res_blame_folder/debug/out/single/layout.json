@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Acer\\Desktop\\github\\week3\\week3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_full_name.xml",
+        "source": "C:\\Users\\Acer\\Desktop\\github\\week3\\week3\\app\\src\\main\\res\\layout\\dialog_full_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\Desktop\\github\\week3\\week3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Acer\\Desktop\\github\\week3\\week3\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\Desktop\\github\\week3\\week3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\Acer\\Desktop\\github\\week3\\week3\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\Desktop\\github\\week3\\week3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\Acer\\Desktop\\github\\week3\\week3\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    }
+]

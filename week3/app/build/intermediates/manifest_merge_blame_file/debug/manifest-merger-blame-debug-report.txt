@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.week1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:5:5-25:19
+12        android:allowBackup="true"
+12-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\c8fd3ebf8eaac4e87cdc0b5deeaa43e9\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:9:9-54
+19        android:supportsRtl="true"
+19-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.Week1" >
+21-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:11:9-43
+22        <activity android:name="com.example.week1.SignupActivity" />
+22-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:12:9-61
+22-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:12:19-49
+23        <activity android:name="com.example.week1.SigninActivity" />
+23-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:13:9-52
+23-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:13:19-49
+24        <activity android:name="com.example.week1.Onboard" />
+24-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:14:9-45
+24-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:14:19-42
+25        <activity android:name="com.example.week1.Welcome" />
+25-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:15:9-45
+25-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:15:19-42
+26        <activity android:name="com.example.week1.LoginActivity" />
+26-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:16:9-50
+26-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:16:19-48
+27        <activity android:name="com.example.week1.ProfileActivity" />
+27-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:17:9-52
+27-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:17:19-50
+28        <activity android:name="com.example.week1.MainActivity" >
+28-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:18:9-24:20
+28-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:18:19-47
+29            <intent-filter>
+29-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:19:13-23:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:20:17-69
+30-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:22:17-77
+32-->C:\Users\Acer\Desktop\github\week3\week3\app\src\main\AndroidManifest.xml:22:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <provider
+36-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\e88b86d7ae9c2a761c56016105162c39\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+37            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+37-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\e88b86d7ae9c2a761c56016105162c39\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+38            android:authorities="com.example.week1.lifecycle-process"
+38-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\e88b86d7ae9c2a761c56016105162c39\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+39            android:exported="false"
+39-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\e88b86d7ae9c2a761c56016105162c39\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+40            android:multiprocess="true" />
+40-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\e88b86d7ae9c2a761c56016105162c39\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+41    </application>
+42
+43</manifest>
