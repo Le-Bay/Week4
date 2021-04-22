@@ -9,11 +9,18 @@ class SignupViewModel(username: String, email: String,password: String) : ViewMo
         account.value = Account(username, email, password)
     }
 
-    fun setAccount(username: String,email: String,password: String){
+    fun setAccountUserName(username: String){
+
         account.value?.username = username
         account.postValue(account.value)
+    }
+    fun setAccountEmail(email: String){
+
+
         account.value?.email = email
         account.postValue(account.value)
+    }
+    fun setAccountPassword(password: String){
         account.value?.password= password
         account.postValue(account.value)
     }
