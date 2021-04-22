@@ -34,12 +34,12 @@ class SignupActivity : AppCompatActivity() {
             }
             editTextTextPersonName2.setOnClickListener {
                 val email = editTextTextPersonName2.text.toString().trim()
-                viewModel.setAccountUserName(email)
+                viewModel.setAccountEmail(email)
             }
 
             editTextTextPassword.setOnClickListener {
                 val password = editTextTextPassword.text.toString().trim()
-                viewModel.setAccountUserName(password)
+                viewModel.setAccountPassword(password)
 
             }
         }
